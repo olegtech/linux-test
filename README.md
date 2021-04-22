@@ -1,8 +1,6 @@
 
 ## <a name='toc'>Tools list:</a>
 
-  1. [Ansible](#ansible)
-  1. [Docker](#docker)
   1. [Vagrant](#vagrant)
   1. [LXD](LXD.md)
   1. [Nginx](#nginx)
@@ -12,18 +10,8 @@
   1. [Teleconsole](#teleconsole)
 
 
-#### <a name='ansible'>Ansible examples:</a>
 
-* [LEMP server + WordPress (CentOS7)](/ansible/LEMP-server-wordpress/)
-* [MySQL](/ansible/mysql-test.yml)
-
-
-#### [[⬆]](#toc) <a name='docker'>Docker examples:</a>
-
-* [MariaDB + Mediawiki Docker Compose](/docker/docker-compose_mediawiki.yml)
-
-
-#### [[⬆]](#toc) <a name='vagrant'>Vagrant examples:</a>
+#### <a name='vagrant'>Vagrant examples:</a>
 
 * [Vagrant + LXC plugin](/vagrant/vagrant-lxc/Vagrantfile)
 * [Vagrant + libvirt plugin (KVM)](/vagrant/vagrant-kvm/Vagrantfile)
